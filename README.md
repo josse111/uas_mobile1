@@ -7,7 +7,8 @@
    ![storyboard](https://github.com/user-attachments/assets/8316267d-7006-4752-ae8b-7ad2e5b594a7)
 
 2. MOCKUP
-   ![storyboard](https://github.com/user-attachments/assets/0e7e6f75-1b80-4cd5-ada9-ef99d3dcd95c)
+![mockup](https://github.com/user-attachments/assets/424bf75b-ee59-427a-a097-9805f120ac5d)
+
    
 3. UI
    DIFILE DIATAS ATAU (https://drive.google.com/file/d/1pQ2cmHcBPZjTlOFKXRldF-2KPGg-POc3/view?usp=drive_link) 
